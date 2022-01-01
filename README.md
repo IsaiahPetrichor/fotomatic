@@ -7,4 +7,4 @@ HTML landing page for a fictional camera company
     - HTML
     - CSS
 
-### Live deployment comming soon.
+### View live deployment here: https://isaiahpetrichor.github.io/fotomatic/
